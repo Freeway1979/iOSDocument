@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/Freeway1979/iOSDocument/blob/master/cc2522c3-6423-11ea-bb7a-81075f2421c9.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://d.mos888.cn/visithelper/appIcon57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://d.mos888.cn/visithelper/appIcon512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>build-time</key>
+				<string>2020-03-12 13:39:31</string>
+				<key>description</key>
+				<string>修正用户苹果IOS13看不到协议的同意按钮</string>
+				<key>app-size</key>
+				<real>24020742</real>
+				<key>bundle-identifier</key>
+				<string>com.rds.mos.visithelper.2020030501</string>
+				<key>bundle-version</key>
+				<string>V1.2.6P05</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>拜访助手</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
